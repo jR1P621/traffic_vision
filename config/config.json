@@ -1,0 +1,26 @@
+{
+    "from": 1625771900,
+    "to": 1625772350,
+    "frame buffer size": 1024,
+    "classes": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        6,
+        7
+    ],
+    "gps-port": 8308,
+    "data-port": 2368,
+    "type": "velodyneVLP16",
+    "gps": 0,
+    "text": 0,
+    "ply": 0,
+    "max distance": 50,
+    "max points": -1,
+    "z-range": [
+        -1.8,
+        1.0
+    ]
+}
